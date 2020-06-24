@@ -1,9 +1,9 @@
 Q1. An internship is____________ </div>
 <div>
-- [ ] A job that you do for few years
+# [checkbox:unchecked] A job that you do for few years
 </div>
 <div>
-- [x] A short duration (0 - 6 months) work experience where you work with an organisation
+# [checkbox:checked] A short duration (0 - 6 months) work experience where you work with an organisation
 </div>
 <div>
 - [ ] A class room training program where you are taught a subject
