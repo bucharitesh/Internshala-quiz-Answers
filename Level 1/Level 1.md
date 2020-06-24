@@ -9,19 +9,16 @@ Q1. An internship is____________ </div>
 - [ ] A class room training program where you are taught a subject
 </div>
 <div>
-- [ ] A higher study program
+- [] A higher study program
 </div>
 </div>
 <br />
 <br />
 
 Q2. In an internship, you get to work on____________</div>
-<div>
-[ ] A dummy project
-</div>
-<div>
-[x] A real project involving real world problem and users
-</div>
+- [ ] A dummy project
+- [x] A real project involving real world problem and users
+
 <div>
 [ ] You don't get real work, you just see how others work
 </div>
